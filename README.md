@@ -49,7 +49,6 @@ I believe great software is built through clean architecture, reusable component
 <img height="50" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img height="50" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img height="50" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img height="50" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 
 </p>
@@ -112,17 +111,6 @@ Developed a GIS web application using modern JavaScript mapping libraries.
 
 ---
 
-### 📊 Dashboard Applications
-
-Built responsive dashboards for visualizing and managing business and spatial data.
-
-- Data Visualization
-- Responsive Layouts
-- Interactive Charts
-- Clean User Experience
-
----
-
 # 🧠 Strengths Beyond Code
 
 - 🎨 Strong eye for UI consistency and clean interfaces
@@ -136,9 +124,9 @@ Built responsive dashboards for visualizing and managing business and spatial da
 
 # 📬 Let's Connect
 
-📧 Email: your-email@example.com
+📧 Email: minaevano312@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/minaasamer/
+🔗 LinkedIn: [https://www.linkedin.com/in/minaasamer/](https://www.linkedin.com/in/mina-samer-mousa-73a5a1306 )
 
 🌐 GitHub: https://github.com/minaasamer
 
